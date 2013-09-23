@@ -537,7 +537,7 @@
 一切佛法| yīqiè-fófǎ| all-buddha-dharmas
 一切功德| yīqiè-gōngdé| all-merits
 一切十方| yīqiè-shífāng| all-in-the-ten-directions
-一切善根| yīqiè-shàngēn| all-wholesome-roots
+一切善根| yīqiè-shàn’gēn| all-good-roots
 一切善法| yīqiè-shànfǎ| all-good-dharmas
 一切如來| yīqiè-rúlái| all-tathāgatas
 一切成就| yīqiè-chéngjiù| all-attained
@@ -1283,6 +1283,7 @@
 一切時| yīqiè-shí| all-times
 一切智| yīqiè-zhì| all-knowledge
 一切法| yīqiè-fǎ| all-dharmas
+一切皆| yīqiè-jiē| every-single-one
 一切處| yīqiè-chù| all-places
 一說部| yī-shuō-bù| ekavyāvahārika-sect
 丁岸哆| dīngànduō| tiṅ-anta
@@ -2809,6 +2810,7 @@
 坐於| zuò-yú| sit-in
 坐禪| zuòchán| sitting-dhyāna
 垢膩| gòunì| dirt
+垣牆| yuánqiáng| ramparts
 堂宇| tángyǔ| hall
 堅固| jiāngù| firm-&-solid
 堅牢| jiānlaó| strong/firm
@@ -2979,6 +2981,7 @@
 宣說| xuānshuō| explain
 宣鑑| xuānjiàn| xuānjiàn
 室哩| shìlī| śrī
+室宅| shìzhái| residence
 宮殿| gōngdiàn| lofty-palace
 家家| jiājiā| family-to-family
 宿命| sù-mìng| former-life
@@ -3040,7 +3043,7 @@
 師子| shīzǐ| lion
 常勤| cháng-qín| constant-striving
 平等| píng-děng| equality
-幻化| huànhuà| magical-transformation
+幻化| huànhuà| illusory-transformation
 幻師| huànshī| magician
 幽冥| yōu-míng| darkness/hell
 度脫| dùtuō| liberate
@@ -3624,7 +3627,7 @@
 略攝| lüè-shè| summarize
 略標| lüèbiāo| brief-indication
 略舉| lüè-jǔ| highlight
-略說| lüè-shuō| briefly-speaking
+略說| lüè-shuō| briefly-speak
 略釋| lüè-shì| summarize
 畫像| huàxiàng| portrait
 當知| dāng-zhī| should-know
@@ -3741,6 +3744,7 @@
 空生| kōngshēng| subhūti
 空閑| kòng-xián| empty-place
 突迦| tújiā| durgā
+窮盡| qióngjìn| ending/boundary
 窺基| kuījī| kuījī
 章句| zhāng-jù| words
 章安| zhāng-ān| zhāng-ān
@@ -3804,6 +3808,7 @@
 義趣| yìqù| essential-meaning
 羼提| chàntí| kṣanti
 老死| lǎo-sǐ| old-age-&-death
+耆婆| qípó| jīva
 聖人| shèngrén| noble-one/sage
 聖尊| shèngzūn| sage
 聖法| shèngfǎ| noble-dharma
@@ -3911,6 +3916,7 @@
 莫伽| mùqié| maghā
 莫作| mò-zuò| do-not
 莫測| mòcè| unfathomable
+莫能| mò-néng| unable
 莫若| mò-ruò| none-like
 莫醯| mùxì| maheśvara
 菩提| pútí| bodhi
@@ -4149,6 +4155,7 @@
 通釋| tōngshì| omission
 逝多| shìduō| jeta
 速得| sù-dé| quickly-obtain
+造作| zàozuò| make/create
 造像| zàoxiàng| make-image
 逸多| yìduō| ajita
 逼切| bīqiē| stifled
@@ -4260,7 +4267,7 @@
 長爪| zhǎngzhǎo| dīghanakha
 長短| cháng-duǎn| long-&-short
 長老| zhǎng-lǎo| elder
-長者| zhǎngzhě| householder
+長者| zhǎngzhě| elder/householder
 長跪| chángguì| kneeling
 長養| zhǎngyǎng| nurture
 長髮| cháng-fǎ| long-hair
@@ -4658,6 +4665,7 @@
 喜| xǐ| delight/happiness
 喻| yù| metaphor/yù
 嘗| cháng| taste
+嘷| háo| howl/roar
 器| qì| device/tool/container
 嚴| yán| adornment/yán[f]
 四| sì| four
@@ -4767,6 +4775,7 @@
 崔| cuī| precipice/cuī[f]
 崩| bēng| collapse
 巖| yán| cliff/crag
+巡| xún| make-rounds
 左| zuǒ| left-side
 巧| qiǎo| skillful
 巨| jù| huge
@@ -5209,6 +5218,7 @@
 滿| mǎn| filled
 漂| piào| float/drift
 漏| lòu| outflow
+演| yǎn| expound/perform
 漸| jiàn| gradual
 潔| jié| clean
 潘| pān| pān[f]
@@ -5428,7 +5438,7 @@
 翼| yì| wing
 老| lǎo| old
 考| kǎo| think
-者| zhě| (that-which)
+者| zhě| (one-who)
 耆| qí| old/old-man
 而| ér| ==>
 耎| ruǎn| weak
@@ -5870,7 +5880,7 @@
 通| tōng| pass/penetrate
 逝| shì| depart
 速| sù| rapidly
-造| zào| make
+造| zào| make/create
 連| lián| lián/linked/continuous
 逮| dài| catch
 進| jìn| progress
@@ -6140,7 +6150,7 @@
 颺| yáng| soar
 飄| piāo| float
 飛| fēi| fly
-食| shí| food
+食| shí| food/eat
 飢| jī| hungry
 飯| fàn| food
 飲| yǐn| drink
