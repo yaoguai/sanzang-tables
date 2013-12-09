@@ -697,6 +697,7 @@
 僕呼繕那| púhū-shànnà| bahujanya
 僧伽羅叉| sēngjiāluóchā| saṃgharakṣa
 優婆提舍| yōupótíshè| upadeśa
+優婆私柯| yōupósīkē| upāsikā
 優曇波羅| yōutánbōluó| uḍumbara
 優曇鉢羅| yōutánbōluó| uḍumbara
 優曇鉢花| yōutánbōhuā| uḍumbara-flower
@@ -1335,6 +1336,7 @@
 不自在| bù-zìzài| not-sovereign
 不調伏| bù-diàofú| immovable
 不變易| bùbiànyì| unchanging
+不退轉| bùtuì-zhuǎn| advance-to-non-retrogression
 世間解| shìjiān-jiě| knower-of-the-world
 中日分| zhōng-rì-fēn| midday
 中阿含| zhōng-āhán| madhyama-āgama
@@ -1394,6 +1396,7 @@
 優婁佉| yōulóuqiā| ulūka
 優婆塞| yōupósāi| upāsaka
 優婆夷| yōupóyí| upāsikā
+優婆私| yōupósī| upāsikā
 優摩陀| yōumótuó| unmada
 優曇花| yōutánhuā| uḍumbara-flower
 優曇鉢| yōutánbō| uḍumbara
@@ -1517,7 +1520,7 @@
 善思念| shàn-sīniàn| well-mindful
 善決定| shàn-juédìng| skillful-determination
 善男子| shàn-nánzǐ| good-man
-善知識| shàn-zhīshí| good-teacher
+善知識| shàn-zhīshì| virtuous-friend
 善解脫| shàn-jiětuō| well-liberated
 善護念| shàn-hùniàn| well-mindful
 喬答摩| qiaódámó| gautama
@@ -1742,6 +1745,7 @@
 恭御陀| gōngyùtuó| konyodha
 恭畔茶| gōngpànchá| kumbhāṇḍa
 惛眠蓋| hūnmiángài| torpor-&-drowsiness-obscuration
+惡知識| è-zhīshì| evil-friend
 想受陰| xiǎng-shòuyīn| conception-skandha
 意生身| yìshēng-shēn| mind-made-body
 愚騃子| yúáizǐ| stupid-child
@@ -1909,6 +1913,7 @@
 欝單越| yùdānyuè| uttarakuru
 歌利王| gēlì-wáng| kalirāja
 歌羅邏| gēluóluó| kalala
+正思惟| zhèng-sīwéi| correct-thought
 正等覺| zhèngděngjué| perfectly-enlightened
 正遍知| zhèngbiànzhī| perfectly-enlightened
 正量部| zhèngliáng-bù| saṃmitīya-sect
@@ -2261,6 +2266,7 @@
 諸事業| zhū-shì-yè| all-works
 諸佛子| zhū-fózǐ| buddha-sons
 諸有情| zhū-yǒuqíng| sentient-beings
+諸群生| zhū-qúnshēng| sentient-beings
 諾伽那| nuòqiénà| nagna
 諾健那| nuòjiànnà| nagna
 諾瞿陀| nuòjùtuó| nyagrodha
@@ -3222,6 +3228,7 @@
 拘絺| jūchī| kauṣṭhila
 拘胝| jūzhī| koṭī
 持戒| chí-jiè| observe-precepts
+捨離| shělí| abandon
 授記| shòujì| assurance
 損害| sǔnhài| harm/damage
 損減| sǔn-jiǎn| loss
@@ -3759,6 +3766,7 @@
 瞿曇| jùtán| gautama
 瞿沙| jùshā| ghoṣa
 瞿波| jùbō| gopā
+知識| zhīshí| consciousness/friend
 石室| shíshì| room-made-of-stone
 石蜜| shímì| stone-honey
 石霜| shíshuāng| shíshuāng
@@ -4073,7 +4081,7 @@
 親近| qīnjìn| near/familiar
 覺名| juémíng| buddhayaśas
 覺天| juétiān| buddhadeva
-覺悟| jué-wù| awaken-to
+覺悟| juéwù| awaken
 覺意| juéyì| enlightenment
 覺愛| juéài| bodhiruci
 覺支| jué-zhī| factor-of-bodhi
@@ -4119,6 +4127,7 @@
 謌友| gēyǒu| gītamitra
 講堂| jiǎngtáng| lecture-hall
 謹慎| jǐn-shèn| cautious/prudent
+證知| zhèngzhī| testify
 譏嫌| jīxián| contempt
 識界| shì-jiè| consciousness-realm
 識陰| shí-yīn| consciousness-skandha
@@ -4629,6 +4638,8 @@
 修| xiū| cultivate
 俱| jù| total/entire
 倍| bèi| increase/double
+倦| juàn| tired
+值| zhí| meet
 假| jiǎ| false/fake
 偈| jì| gāthā
 健| jiàn| healthy/strong
