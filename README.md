@@ -1,19 +1,35 @@
 Sanzang Tables
 ==============
 
-zh-en_tripitaka
----------------
-* Source: Traditional Chinese / Buddhist Canon
-* Targets: (1) Pinyin, (2) English
-* Encoding: UTF-8
-* Publisher: Lapis Lazuli
+About
+-----
+Sanzang is a simple program for translating from CJK languages -- Chinese,
+Japanese, and Korean. You can define your own translation rules as you need
+them, and these are stored in simple delimited text files. These rules define
+how to translate specific words and phrases.
 
-Project Updates
----------------
-Translation rules are regularly revised, added to, and improved.
+The files contained here are sets of translation rules ("translation tables")
+for Sanzang. By running the Sanzang translator with one of these table files,
+you can generate rough translations. For example:
+
+    $ cat mytext.txt | sanzang r | sanzang t zh-en_tripitaka
+
+Following Development
+---------------------
+The translation rules here are regularly revised, added to, and improved. If
+you are interested in using these translation tables, then you should track
+their development so you can use the latest versions.
 
 Redistribution
 --------------
 If the translation rules in this project are subject to copyright or database
-rights, then these rights are waived to the maximum extent of the law. The
+rights, then these rights are waived to the maximum extent of the law. These
 translation rules should be regarded as knowledge in the public domain.
+
+Table: zh-en_tripitaka
+----------------------
+* Source: Traditional Chinese from the Taisho Tripitaka (e.g. CBETA)
+* Targets: (1) Hanyu Pinyin, (2) English
+* Encoding: UTF-8
+* Description: Translation from the Chinese Buddhist canon
+* Entries: 6000+
