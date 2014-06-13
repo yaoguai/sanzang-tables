@@ -1,5 +1,8 @@
 *~
 *.bkp
 *.html
+*.py
+*.rb
+*.sh
 *.swp
 .DS_Store
