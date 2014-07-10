@@ -1126,6 +1126,7 @@
 沙門法立|shāmén-fǎlì|śramaṇa-fǎlì
 沙門玄則|shāmén-xuánzé|śramaṇa-xuánzé
 沙門瞿曇|shāmén-jùtán|śramaṇa-gautama
+沮渠京聲|jǔqú-jīngshēng|juqu-jingsheng
 波利質多|bōlìzhíduō|pārijāta
 波吒釐子|bōzhàlízǐ|pāṭaliputra
 波斯匿王|pōsīnì-wáng|prasenajit-king
@@ -1151,7 +1152,7 @@
 烏闍衍那|wūshéyǎnnà|ujjayinī
 無擇地獄|wúzé-dìyù|avīci-hell
 無有分別|wúyǒu-fēnbié|without-discrimination
-無生法忍|wúshēng-fǎrěn|no-birth-dharma-patience
+無生法忍|wúshēng-fǎrěn|non-arising-dharma-patience
 無著菩薩|wúzhaó-púsà|asaṅga-bodhisattva
 無邊無際|wúbiān-wújì|limitless-&-endless
 無量壽佛|wúliàngshòu-fó|amitāyus
@@ -2166,7 +2167,9 @@
 無央數|wúyāngshǔ|innumerable
 無學人|wúxué-rén|beyond-study-person
 無為法|wúwéi-fǎ|unconditioned-dharma
+無生忍|wúshēng-rěn|non-arising-patience
 無空過|wú-kōngguò|without-exception
+無窮盡|wú-qióngjìn|without-limit
 無與等|wú-yǔděng|without-equal
 無色界|wúsè-jiè|formless-realm
 無著智|wúzhuózhì|wisdom-of-non-attachment
@@ -2552,6 +2555,7 @@
 釋迦尊|shìjiāzūn|honored-śākya
 釋迦帝|shìjiādì|lord-śakra
 釋迦譜|shìjiā-pǔ|śākya-genealogy
+釋道安|shì-dàoān|śākya-dàoān
 釋難提|shì-nántí|śākya-nandi
 釋靖邁|shì-jìngmài|shì-jìngmài
 金剛地|jīn’gāng-dì|vajra-ground
@@ -2968,6 +2972,7 @@
 前秦|qián-qín|former-qín
 前身|qián-shēn|previous-body
 剎利|shālì|kṣatriya
+剎土|shātǔ|kṣetra/land
 剎那|chànà|kṣana
 剛強|gāngqiáng|stiff/firm
 剝皮|bāopí|flay/peel
@@ -3025,6 +3030,7 @@
 名為|míng-wéi|named
 名色|míngsè|name-&-form
 名號|mínghào|title
+名譽|míngyù|fame/honor
 告曰|gào-yuē|speak-saying
 周羅|zhōuluó|cūḍā
 周遍|zhōubiàn|everywhere
@@ -3177,6 +3183,7 @@
 妻子|qīzǐ|wife-&-children
 姊妹|zǐ-mèi|sisters
 姚秦|yáo-qín|yáo-qín
+姝好|shūhǎo|beautiful
 威儀|wēiyí|deportment
 威力|wēilì|power/might
 威勢|wēishì|power/influence
@@ -3268,6 +3275,7 @@
 宮殿|gōngdiàn|lofty-palace
 宴寂|yànjí|peaceful-silence
 家家|jiājiā|family-to-family
+容色|róngsè|colorful
 宿命|sù-mìng|former-life
 宿福|sù-fú|former-merits
 宿舊|sùjiù|purāṇa
@@ -3481,6 +3489,7 @@
 擁護|yōng-hù|hold-&-protect
 擬議|nǐyì|proposal/consideration
 攝化|shè-huà|accept-&-transform
+支提|zhītí|caitya
 支謙|zhī-qiān|zhī-qiān
 放逸|fàngyì|negligence
 救濟|jiùjǐ|rescue
@@ -3579,6 +3588,7 @@
 梵行|fànxíng|brahmacarya
 梵語|fànyǔ|sanskrit
 梵釋|fàn-shì|brahmā-&-śakra
+棄捨|qìshě|abandon
 森羅|sēn-luó|forest-of-nets
 楞伽|léngjiā|laṅka
 楞嚴|lèngyán|śūraṅgama
@@ -3966,6 +3976,8 @@
 男子|nánzǐ|man
 界量|jiè-liàng|realm-limit
 畏懼|wèijù|fear
+留礙|liúài|hinder
+留難|liúnán|difficulty
 畢竟|bìjìng|after-all
 畢鉢|bìbō|pippalāyāna
 畢陵|bìlíng|pilinda-vatsa
@@ -4062,7 +4074,7 @@
 神解|shén-jiě|spiritual-liberation
 神變|shénbiàn|spiritual-transformation
 神足|shénzú|spiritual-ability
-神通|shéntōng|spiritual-power
+神通|shéntōng|superknowledge
 祠祀|císì|religious-ritual
 祩宏|zhùhóng|zhùhóng
 祭祀|jìsì|sacrificial-offering
@@ -4110,6 +4122,7 @@
 童真|tóngzhēn|pure-youth
 童首|tóngshǒu|kumāralāta
 端坐|duān-zuò|sit-upright
+端正|duānzhèng|upright/proper
 竹林|zhúlín|bamboo-forest
 笈多|jíduō|gupta
 等等|děngděng|equal
@@ -4556,6 +4569,7 @@
 遍覆|biàn-fù|completely-cover
 遍計|biànjì|imagination
 過去|guōqù|past
+過失|guòshī|fault
 道一|dàoyī|dàoyī
 道世|dàoshì|dàoshì
 道信|dàoxìn|dàoxìn
@@ -4732,6 +4746,7 @@
 離謂|líwèi|trapuṣa
 離越|líyuè|revata
 離車|líchē|licchavi
+離間|líjiàn|divide
 難得|nándé|rare/difficult-to-obtain
 難思|nánsī|inconceivable
 難提|nántí|nandi
@@ -4761,6 +4776,7 @@
 非但|fēi-dàn|not-only
 非時|fēishí|untimely
 面王|miànwáng|amogharāja
+面貌|miànmào|face-&-features
 面輪|miàn-lún|round-face
 面門|miànmén|forehead
 鞠多|júduō|upagupta
@@ -5707,6 +5723,7 @@
 甘|gān|sweet
 甚|shèn|extremely
 甜|tián|sweet
+甞|cháng|try/taste
 生|shēng|arise/birth/life
 用|yòng|use
 田|tián|field/tián[f]
