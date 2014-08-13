@@ -3,16 +3,20 @@ Sanzang Tables
 
 About
 -----
-Sanzang is a simple program for translating from CJK languages -- Chinese,
-Japanese, and Korean. You can define your own translation rules as you need
-them, and these are stored in simple delimited text files. These rules define
-how to translate specific words and phrases.
+Sanzang is a system for translating from CJK languages -- Chinese, Japanese,
+and Korean. You can define your own translation rules as you need them, and
+these are stored in simple delimited text files. These rules define how to
+translate specific words and phrases.
 
-The files contained here are sets of translation rules ("translation tables")
-for Sanzang. By running the Sanzang translator with one of these table files,
-you can generate rough translations. For example:
+The files contained here are "translation tables" -- sets of translation rules
+for Sanzang. By running the Sanzang Utils translator with one of these table
+files, you can generate rough translations. For example:
 
-    $ cat mytext.txt | sanzang r | sanzang t zh-en_tripitaka
+    $ cat mytext.txt | szu-r | szu-t zh-en_tripitaka
+
+For the programs that use these tables, see Sanzang Utils:
+
+<https://github.com/yaoguai/sanzang-utils>
 
 Following Development
 ---------------------
