@@ -26,9 +26,13 @@ their development so you can use the latest versions.
 
 Redistribution
 --------------
-If the translation rules in this project are subject to copyright or database
-rights, then these rights are waived to the maximum extent of the law. These
-translation rules should be regarded as knowledge in the public domain.
+If this project is subject to copyright or database rights, then these rights
+are waived universally to the maximum extent of the law. This data should be
+regarded as knowledge in the public domain.
+
+To help facilitate this worldwide, the Creative Commons Zero (CC0) license is
+used, which is a tool for releasing works into the public domain. See the file
+COPYING.md for more details.
 
 Table: zh-en_tripitaka
 ----------------------
