@@ -12,7 +12,7 @@ The files contained here are "translation tables" -- sets of translation rules
 for Sanzang. By running the Sanzang Utils translator with one of these table
 files, you can generate rough translations. For example:
 
-    $ cat mytext.txt | szu-r | szu-t zh-en_tripitaka
+    $ cat mytext.txt | szu-r | szu-t zh_en_tripitaka
 
 For the programs that use these tables, see Sanzang Utils:
 
@@ -34,7 +34,7 @@ To help facilitate this worldwide, the Creative Commons Zero (CC0) license is
 used, which is a tool for releasing works into the public domain. See the file
 COPYING.md for more details.
 
-Table: zh-en_tripitaka
+Table: zh_en_tripitaka
 ----------------------
 * Source: Traditional Chinese from the Taisho Tripitaka (e.g. CBETA)
 * Targets: (1) Hanyu Pinyin, (2) English
