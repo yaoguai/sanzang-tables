@@ -40,4 +40,4 @@ Table: zh_en_tripitaka
 * Targets: (1) Hanyu Pinyin, (2) English
 * Encoding: UTF-8
 * Description: Translation from the Chinese Buddhist canon
-* Entries: 6000+
+* Entries: 7000+
